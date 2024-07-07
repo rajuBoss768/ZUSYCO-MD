@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "923024769496",
+  SUDO_NUMBERS : "923314927710",
+  OWNER_NAME: "『 𝙼𝚁 Raju 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,13 +35,13 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Raju Boss',
+  STICKER_PACK : '[ Raju ]',
+  BAD_WORDS : 'fuck,pussy,xxx,porn',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
