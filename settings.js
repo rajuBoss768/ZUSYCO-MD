@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "923024769496",
   SUDO_NUMBERS : "923314927710",
   OWNER_NAME: "『 𝙼𝚁 Raju 』",
-  BOT_NAME : "RajuBoss🔥",
+  BOT_NAME : "RajuBoss🔥❤️",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
